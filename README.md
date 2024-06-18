@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![giwon-bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwon-bae&show_icons=true&theme=radical)
+
 <!--
 **giwon-bae/giwon-bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

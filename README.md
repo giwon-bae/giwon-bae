@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![giwon-bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwon-bae&show_icons=true&theme=darcula&count_private=true&count_all_commits=true&include_all_commits=true&)
+<!--![giwon-bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwon-bae&show_icons=true&theme=darcula&count_private=true&count_all_commits=true&include_all_commits=true&)-->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldnjs7)](https://solved.ac/rldnjs7)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldnjs7)](https://solved.ac/rldnjs7)-->
 
 <!--
 **giwon-bae/giwon-bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![giwon-bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwon-bae&show_icons=true&theme=radical&count_private=true)
+![giwon-bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwon-bae&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldnjs7)](https://solved.ac/rldnjs7)
 
